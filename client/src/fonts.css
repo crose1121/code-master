@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'medieval';
+    src: local('medieval'),
+        url("./fonts/OldLondon.ttf") format(ttf);
+}
